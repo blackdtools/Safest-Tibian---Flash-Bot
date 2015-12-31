@@ -1,4 +1,8 @@
-Login to Tibia and open the Flash Client.
+HOW TO USE:
+
+1. Set your screen in one of our supported resolutions. Example: 1920x1080
+2. Login to Tibia and open the Flash Client on one of our supported browsers (Chrome or Firefox)
+3. Run this bot.
 
 Recommended settings:
 
