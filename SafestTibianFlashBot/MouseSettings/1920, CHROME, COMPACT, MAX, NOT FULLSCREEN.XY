@@ -1,0 +1,11 @@
+[Settings]
+maxHealthX=907
+minHealthX=204
+maxManaX=1012
+minManaX=1715
+yOffset=67
+maximumX=1920
+windowCaption=Tibia Flash Client - Google Chrome
+RechargeDelayUpperLimit=150
+RechargeDelayLowerLimit=500
+RechargeDelayRandomVariation=15

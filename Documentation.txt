@@ -1,0 +1,14 @@
+Login to Tibia and open the Flash Client.
+
+Recommended settings:
+
+Health / Mana bar: COMPACT
+Browser: CHROME or FIREFOX
+Resolution: 1920x1080
+Maximized? Yes
+Fullscreen? No
+
+Open SafestTibian
+Press "Setup Mouse"
+Follow the audio instructions
+The rest of it is self explanatory

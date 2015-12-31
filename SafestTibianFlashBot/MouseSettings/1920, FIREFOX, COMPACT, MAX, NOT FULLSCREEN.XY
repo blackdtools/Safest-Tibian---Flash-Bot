@@ -1,0 +1,11 @@
+[Settings]
+maxHealthX=906
+minHealthX=274
+maxManaX=1018
+minManaX=1637
+yOffset=67
+maximumX=1920
+windowCaption=Tibia Flash Client - Mozilla Firefox
+RechargeDelayUpperLimit=150
+RechargeDelayLowerLimit=500
+RechargeDelayRandomVariation=15
